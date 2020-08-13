@@ -1,8 +1,10 @@
+# GLE_GEM_DHV
 
 
-![[img002.png]]
+![[product_managment/notes/Strategy/img/img002.png]]
 
-![[img003.png]]
+![[product_managment/notes/Strategy/img/img003.png]]
+
 
 [How to Define Your Product Strategy](https://medium.com/@gibsonbiddle/intro-to-product-strategy-60bdf72b17e3)
 [Презентация](https://docs.google.com/presentation/d/1TJSSHV30drVkteDY2FgwTJrHQxX73lDk-H5Br0HxIWI/edit?usp=sharing)
