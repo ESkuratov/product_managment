@@ -1,0 +1,2 @@
+# StrategyFrameworks.png
+

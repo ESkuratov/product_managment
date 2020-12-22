@@ -34,6 +34,6 @@ These growth strategies can be visualized in a matrix based on two different var
 **Out of business** — In due time (gets job done worse / charge more)
 
 
-
+[[StrategyFrameworks.png]]
 
 [MOAT Framework](https://www.kevanlee.com/articles/product-led-growth-moat-framework)
