@@ -46,3 +46,24 @@ Your number one goal as a leader is to develop a work environment consisting exc
   - With expense freedom, employees will be able to make quick decisions to spend money in ways that help the business.
   - Without the time and administrative costs associated with purchase orders and procurement processes, you will waste fewer resources.
   - Many employees will respond to their new freedom by spending less than they would in a system with rules. When you tell people you trust them, they will show you how trustworthy they are.
+
+
+BONUSES ARE BAD FOR FLEXIBILITY
+ Her compensation at all these places was metric oriented, with compensation tied to achieving predefined objectives.
+ Contingent pay works for routine tasks but actually decreases performance for creative work.
+
+ quit their jobs:
+- for more money - 44%
+- for a company with a higher purpose/stronger mission - 12%
+- don't feel appreciated 12%
+- bored/unchallenged by work - 12%
+- bad commute/want something closer to home - 7%
+- corporate culture is not a fit - 7%
+- unhappy with boss - 6%
+
+In order to fortify the talent density in your workforce, for all creative roles hire one exceptional employee instead of ten or more average ones.
+
+Divide your workforce into creative and operational employees.
+Pay the creative workers top of market. This may mean hiring one exceptional individual instead of ten or more adequate people.
+
+Don’t pay performance-based bonuses. Put these resources into salary instead.
